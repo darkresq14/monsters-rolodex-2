@@ -20,3 +20,4 @@
 | yarn          | 1.22.18 |
 | react         | 18.0.0  |
 | react-scripts | 5.0.1   |
+| gh-pages      | 3.2.3   |

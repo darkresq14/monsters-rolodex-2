@@ -7,7 +7,9 @@
 - Implement Search Box to filter List in real time
 - Use correct structure
 - Class vs Functional Components
-- Hooks
+- Class Lifecycles
+- Switching to Functional Components
+- useState, useEffect
 
 | App           | Version |
 | ------------- | ------- |

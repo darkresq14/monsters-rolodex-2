@@ -11,11 +11,13 @@
 - Class Lifecycles
 - Switching to Functional Components
 - useState, useEffect
-- changing to Typescript
+- Changing to Typescript
+- Converting to PWA (Progressive Web App)
+  - Google Lighthouse
 
 | App              | Version |
 | ---------------- | ------- |
-| nvm              | 1.1.9   |
+| nvm              | 1.      |
 | node             | 18.0.0  |
 | npm              | 8.6.0   |
 | yarn             | 1.22.18 |

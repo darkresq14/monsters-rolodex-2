@@ -19,13 +19,13 @@ import "./card-list.styles.css";
 // }
 
 type CardListProps = {
-  filteredMonsters: Monster[]
-}
+  filteredMonsters: Monster[];
+};
 
 const CardList = ({ filteredMonsters }: CardListProps) => (
   <div className="card-list">
     {filteredMonsters.map((monster) => (
-      <Card monster={monster} />
+      <Card key={monster.id} monster={monster} />
     ))}
   </div>
 );
